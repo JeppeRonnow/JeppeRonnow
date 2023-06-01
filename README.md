@@ -5,5 +5,5 @@ I'm Jeppe.
 </p>
 <p align='center'>Might do stuff when bored.</p>
 
-<h1 align='center'><i>Pizza is good tho!</i></h1>
+<h1 align='center'><i>Denmark 📍</i></h1>
 
