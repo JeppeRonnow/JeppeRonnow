@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/JeppeRonnow/JeppeRonnow/blob/main/acb66468748409.5b6854a69eb7e.jpg?raw=true)](https://www.youtube.com/channel/UCkCFHNlX3Zd5nqDn2v-gykg)
+[![Social banner for jh3y]([https://github.com/JeppeRonnow/JeppeRonnow/blob/main/acb66468748409.5b6854a69eb7e.jpg?raw=true)](https://www.youtube.com/channel/UCkCFHNlX3Zd5nqDn2v-gykg](https://github.com/JeppeRonnow/JeppeRonnow/blob/main/GITJR_dark.png?raw=true))
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jeppe.
