@@ -3,7 +3,7 @@
 <p align='center'>
 I'm Jeppe.
 </p>
-<p align='center'>Might do stuff when bored.</p>
+<p align='center'>Busy at Danfoss</p>
 
 <h1 align='center'><i>Denmark 📍</i></h1>
 
