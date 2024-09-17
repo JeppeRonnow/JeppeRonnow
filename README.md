@@ -1,4 +1,3 @@
-![Social banner for jh3y](https://raw.githubusercontent.com/JeppeRonnow/JeppeRonnow/main/GITJR.png)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jeppe.
